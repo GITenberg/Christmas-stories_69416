@@ -1,0 +1,47 @@
+_repo: Christmas-stories_69416
+_version: 0.0.1
+alternative_title: The story lady's Christmas stories
+contributor:
+  illustrator:
+    agent_name: Richardson, Frederick
+    alias: Richardson, Frederic
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '26627'
+    url: http://www.gutenberg.org/2009/agents/26627
+    wikipedia: https://en.wikipedia.org/wiki/Frederick_Richardson
+creator:
+  author:
+    agent_name: Faulkner, Georgene
+    alias: Story lady
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '46904'
+    url: http://www.gutenberg.org/2009/agents/46904
+    wikipedia: https://en.wikipedia.org/wiki/Georgene_Faulkner
+description: ''
+gutenberg_issued: '2022-11-24'
+identifiers:
+  gutenberg: '69416'
+  lccn: '16018335'
+language: en
+pgterms:marc904: https://archive.org/details/christmasstories00faul/page/n11/mode/2up
+pgterms:marc905: 20211212173642faulkner
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Charlene Taylor, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Daughaday and Company,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The "story lady" series
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: A visit to Santa Claus Land -- Squeaky and the scare box -- A Christmas
+  tree for Santa Claus -- The legend of Saint Nicholas -- The gift of love.
+title: Christmas stories
+url: http://www.gutenberg.org/ebooks/69416
