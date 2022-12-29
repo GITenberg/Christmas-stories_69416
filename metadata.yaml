@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '26627'
     url: http://www.gutenberg.org/2009/agents/26627
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Richardson
+covers:
+- cover_type: archival
+  image_path: 69416-h/images/cover.jpg
 creator:
   author:
     agent_name: Faulkner, Georgene
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46904
     wikipedia: https://en.wikipedia.org/wiki/Georgene_Faulkner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69416#Christmas-stories
 gutenberg_issued: '2022-11-24'
 identifiers:
   gutenberg: '69416'
